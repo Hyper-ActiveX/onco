@@ -1,10 +1,7 @@
-'use Client'
-import Caroselss from "@/components/carosels/Carosel";
 import Component from "@/components/carosels/contact";
 import Dava from "@/components/carosels/ONCO";
 import Footer from "@/components/footer/Footer";
 import NavBar from "@/components/navBar/NavBar";
-import Image from "next/image";
 
 export default function Home() {
   return (
